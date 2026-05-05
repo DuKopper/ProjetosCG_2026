@@ -1,4 +1,4 @@
-Eduardo Cunda Kopper
+Aluno: Eduardo Cunda Kopper
 
 Entrega da tarefa "Instanciando objetos na cena 3D" de Computação Gráfica 
 
