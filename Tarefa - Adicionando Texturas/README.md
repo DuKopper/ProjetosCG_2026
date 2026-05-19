@@ -10,4 +10,4 @@ Entrega da tarefa "Adicionando Texturas" de Computação Gráfica
 
 **Atenção!**
 	
-	- Lembre de atualizar os caminhos para os arquivos png. e mtl. de acordo com as suas preferências.
+	- Lembre de atualizar os caminhos para os arquivos obj. e mtl. de acordo com as suas preferências.
