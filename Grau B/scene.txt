@@ -1,0 +1,91 @@
+# =========================
+# CAMERA
+# =========================
+
+CAMERA
+POSITION 0.0 0.0 3.0
+YAW -90.0
+PITCH 0.0
+FOV 45.0
+NEAR 0.1
+FAR 100.0
+
+# =========================
+# LIGHTS
+# =========================
+
+LIGHT
+POSITION 2.0 2.0 2.0
+COLOR 1.0 1.0 1.0
+
+LIGHT
+POSITION -2.0 1.0 1.0
+COLOR 0.4 0.4 0.4
+
+LIGHT
+POSITION 0.0 2.0 -2.0
+COLOR 0.6 0.6 0.6
+
+# =========================
+# OBJECT 1
+# =========================
+
+OBJECT
+OBJ_FILE C:\\Users\\user\\Documents\\Objetos3D\\GuitarChair.obj
+MTL_FILE C:\\Users\\user\\Documents\\Texturas\\GuitarChair.mtl
+
+POSITION -0.4 -0.3 0.3
+SCALE 0.3 0.3 0.3
+
+ROTATION_AXIS 1.0 0.0 0.0
+ROTATION_ANGLE 0.0
+
+ROTATING false
+
+# =========================
+# OBJECT 2
+# =========================
+
+OBJECT
+OBJ_FILE C:\\Users\\user\\Documents\\Objetos3D\\GuitarChair.obj
+MTL_FILE C:\\Users\\user\\Documents\\Texturas\\GuitarChair.mtl
+
+POSITION 0.4 -0.3 0.3
+SCALE 0.3 0.3 0.3
+
+ROTATION_AXIS 0.0 1.0 0.0
+ROTATION_ANGLE 0.0
+
+ROTATING false
+
+# =========================
+# OBJECT 3
+# =========================
+
+OBJECT
+OBJ_FILE C:\\Users\\user\\Documents\\Objetos3D\\coffee_table.obj
+MTL_FILE C:\\Users\\user\\Documents\\Texturas\\coffee_table.mtl
+
+POSITION 0.02 -0.3 0.3
+SCALE 0.01 0.01 0.01
+
+ROTATION_AXIS 1.0 0.0 0.0
+ROTATION_ANGLE 0.0
+
+ROTATING false
+
+# =========================
+# OBJECT 4
+# =========================
+
+OBJECT
+OBJ_FILE C:\\Users\\user\\Documents\\Objetos3D\\Carpet.obj
+MTL_FILE C:\\Users\\user\\Documents\\Texturas\\Carpet.mtl
+
+POSITION 0.02 -0.3 0.3
+SCALE 0.001 0.001 0.001
+
+ROTATION_AXIS 1.0 0.0 0.0
+ROTATION_ANGLE 90.0
+
+ROTATING false
